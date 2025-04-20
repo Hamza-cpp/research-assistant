@@ -2,6 +2,22 @@
 
 A web application that helps users summarize and search scientific articles from ArXiv and HAL archives. It provides automatic summarization of scientific articles and keyword extraction to help users quickly understand research papers.
 
+## Screenshots
+
+### Article Summary View
+
+![Article Summary](imgs/image.png)
+*Example of an article summary showing details, generated summary, and key concepts*
+
+### Search Results View
+
+![Search Results](imgs/image2.png)
+*Search interface showing results from HAL archives*
+
+### API view
+
+![Search Results](imgs/image3.png)
+
 ## Features
 
 - **Article Summarization**: Generate concise summaries of scientific papers
